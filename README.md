@@ -1,7 +1,5 @@
 ### Hi there 👋
-
-<!--
-**simsekyusuf/simsekyusuf**# 💫 About Me:
+# 💫 About Me:
 🔭 I’m currently working to improve on my skills.<br>🤝 I’m looking for help about AI and Machine Learning.<br>🌱 I’m currently learning AI, Machine Learning and Data Science.<br>💬 Ask me about any techs.<br>
 
 
@@ -27,8 +25,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=simsekyusuf&icon=5&color=10)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --> is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
